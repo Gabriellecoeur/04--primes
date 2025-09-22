@@ -80,4 +80,3 @@ fi
 if $DO_TESTS; then
     run_pytest
 fi
-
